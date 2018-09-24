@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">AAM-PR01-Greet</string>
+    <string name="app_name">AAM - PR01 - Greet</string>
+    <string name="activity_main_lblName">Name</string>
+    <string name="activity_main_lblLastName">Surname</string>
+    <string name="main_activity_polite_mode">Politely</string>
+    <string name="activity_main_btnGreet">Greet</string>
+    <string name="activity_main_btnReset">Reset</string>
+    <string name="main_activity_greet_polite">Nice to meet you,</string>
+    <string name="main_activity_greet_impolite">Hey,</string>
+    <string name="reset" />
+
 </resources>
